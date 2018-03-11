@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-tw">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,19 +7,104 @@
   <title>Code it now or never</title>
 </head>
 <body>
+  <header>
   <p>So, I gonna get used to some tags first.</p>
-  <img src="../code-it-now-or-never/inc/cover.jpg" alt="cover">
   <h1>here is h1</h1>
   <h2>here is h2</h2>
   <h3>here is h3</h3>
+  </header>
+  <nav>
+    <ul>
+      <li>dot</li>
+    </ul>
+  </nav>
   <p>and here is p</p>
   <p>
     <strong>and this is important</strong>
     <small>while this is not that important</small>
   </p>
+  <ol>
+    <li>yo</li>
+    <li>man</li>
+    <li>come on</li>
+  </ol>
+
+  <dl>
+    <dt>name</dt>
+    <dd>Venetia</dd>
+  </dl>
+
+  <table>
+    <caption>table practice</caption>
+    <thead>
+      <tr>
+        <td>table is so terrible</td>
+        <td>will you agree me?</td>
+      </tr>
+    </thead>
+      <tbody>
+      <tr>
+        <td>and this is a 3-row table</td>
+        <td>you must believe me</td>
+      </tr>
+      <tr>
+        <td colspan="2">yo yo yo yo</td>
+      </tr>
+    </tbody>
+  </table>
+
   <p>
     note<sup>1</sup>: you can click <a href="https://venetiachou.com" target="_blank">here</a> to see my info
   </p>
-  
+
+  <form action="https://uxabc-dev.yfxie.com/form_entries" method="post">
+    <div>
+      <label for="name">姓名</label>
+      <input id="name" type="text" name="username" placeholder="輸入姓名">
+    </div>
+    <div>
+      <label for="date">日期</label>
+      <input id="date" type="date" name="date">
+    </div>
+    <div>
+      <label for="city">縣市</label>
+      <select id="city" name="city">
+        <option value="new taipei">新北市</option>
+        <option selected value="taipei">台北市</option>
+      </select>
+    </div>
+    <div>
+      <input type="checkbox" name="checkbox">I want to enroll
+    </div>
+    <div>
+      <input type="radio" name="color" id="color" value="black">black
+      <input type="radio" name="color" id="color" value="green">green
+    </div>
+    <div>
+      <label for="bio">備註</label>
+      <textarea name="bio" id="bio" cols="30" rows="10"></textarea>
+    </div>
+    <button type="submit">I am a button just click it</button>
+  </form>
+
+  <div>
+    <img width="100pt" src="./inc/cover.jpg" alt="cover">
+  </div>
+  <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FIammumupong%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+  <video autoplay loop controls src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
+  <div id="map" style="width:100%;height:500px"></div>
+
+<script>
+function myMap() {
+  var myCenter = new google.maps.LatLng(37.561858,126.946829);
+  var mapCanvas = document.getElementById("map");
+  var mapOptions = {center: myCenter, zoom: 5};
+  var map = new google.maps.Map(mapCanvas, mapOptions);
+  var marker = new google.maps.Marker({position:myCenter});
+  marker.setMap(map);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCicCkgWz4BaW28TpWy1JoiKxy3_2Hm8ZA&callback=myMap"></script>
 </body>
 </html>
