@@ -15,3 +15,5 @@ I just started on March 10. Let's see how far I'll go.
 - HTML5 tag(Header, nav, main)
 - Facebook Fanpage & Google map
 - Basic CSS 
+
+>The result of my W1 assignment: [Calendar](https://codepen.io/venetiachou/pen/gerOKo)
