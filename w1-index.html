@@ -94,17 +94,16 @@
   <video autoplay loop controls src="http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4"></video>
   <div id="map" style="width:100%;height:500px"></div>
 
-<script>
-function myMap() {
-  var myCenter = new google.maps.LatLng(37.561858,126.946829);
-  var mapCanvas = document.getElementById("map");
-  var mapOptions = {center: myCenter, zoom: 5};
-  var map = new google.maps.Map(mapCanvas, mapOptions);
-  var marker = new google.maps.Marker({position:myCenter});
-  marker.setMap(map);
-}
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCicCkgWz4BaW28TpWy1JoiKxy3_2Hm8ZA&callback=myMap"></script>
+  <script>
+  function myMap() {
+    var myCenter = new google.maps.LatLng(37.561858,126.946829);
+    var mapCanvas = document.getElementById("map");
+    var mapOptions = {center: myCenter, zoom: 5};
+    var map = new google.maps.Map(mapCanvas, mapOptions);
+    var marker = new google.maps.Marker({position:myCenter});
+    marker.setMap(map);
+  }
+  </script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCicCkgWz4BaW28TpWy1JoiKxy3_2Hm8ZA&callback=myMap"></script>
 </body>
 </html>
