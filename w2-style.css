@@ -9,6 +9,22 @@ body{
   margin: 0;
 }
 
+nav{
+  background-color: #ffffff;
+  position: fixed;
+  padding: 20px 0;
+  right: 0;
+  left: 0;
+  box-shadow:  0 0 10px 0 rgba(0,0,0,.15);
+}
+
+.user{
+  padding: 20px;
+  font-size: 20px;
+  color: #006737;
+  font-weight: 800;
+}
+
 .cover{
   background: url(./inc/w2-cover.jpg) left top /cover no-repeat;
   background-attachment: scroll;
