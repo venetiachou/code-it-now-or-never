@@ -19,7 +19,7 @@ I just started on March 10. Let's see how far I'll go.
 >The result of W1: [Calendar](https://codepen.io/venetiachou/pen/gerOKo)
 
 
-##W2 3/18
+## W2 3/18
 - Web font use
 - Box model
 - Position
