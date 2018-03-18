@@ -9,6 +9,15 @@ body{
   margin: 0;
 }
 
+a{
+  text-decoration: none;
+  color: #006737
+}
+
+a:hover{
+  color: #8fd3b4;
+}
+
 nav{
   background-color: #ffffff;
   position: fixed;
@@ -100,4 +109,32 @@ h3{
   font-size: 18px;
   text-align: center;
   display: block;
+}
+
+footer{
+  background-color: #fafafa;
+  padding-top: 50px;
+}
+
+.footer{
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.footer .container{
+  display: inline-block;
+  padding: 0px 30px;
+}
+
+.footer .container .title{
+  font-size: 20px;
+  color: #006737;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+}
+
+.copyright{
+  text-align: center;
+  padding: 20px;
 }
