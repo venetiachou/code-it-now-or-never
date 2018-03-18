@@ -1,0 +1,43 @@
+html{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-family: 'Quicksand', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei';
+  font-size: 14px;
+  margin: 0;
+}
+
+.cover{
+  height: 85vh;
+  background-color: #f2f2f2;
+  background-image: url(./inc/w2-cover.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-attachment: scroll;
+}
+
+.cover .container{
+  padding: 200px 0px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.cover .word {
+  text-align: center;
+  line-height: 30px;
+}
+
+h1{
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 1px;
+  font-size: 48px;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 32px;
+}
