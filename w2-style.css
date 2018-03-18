@@ -1,33 +1,25 @@
-html{
-  margin: 0;
-  padding: 0;
+*{
+  box-sizing: border-box;
 }
 
 body{
   font-family: 'Quicksand', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei';
   font-size: 14px;
+  letter-spacing: 1px;
   margin: 0;
 }
 
 .cover{
-  height: 85vh;
-  background-color: #f2f2f2;
-  background-image: url(./inc/w2-cover.jpg);
-  background-position: center;
-  background-size: cover;
-  background-repeat:no-repeat;
+  background: url(./inc/w2-cover.jpg) left top /cover no-repeat;
   background-attachment: scroll;
 }
 
 .cover .container{
-  padding: 200px 0px;
-  margin-right: auto;
-  margin-left: auto;
+  padding: 200px 0px 300px 0px;
 }
 
 .cover .word {
   text-align: center;
-  line-height: 30px;
 }
 
 h1{
@@ -39,5 +31,57 @@ h1{
 
 h2{
   font-weight: 300;
-  font-size: 32px;
+  font-size: 36px;
+}
+
+main{
+  padding-top: 30px;
+}
+
+.section{
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+h3{
+  font-size: 28px;
+  letter-spacing: 2px;
+  text-align: center;
+  color: #006737;
+}
+
+.product-group{
+  width: 100%;
+  max-width: 1000px;
+  margin: auto;
+}
+
+.product{
+  display: inline-block;
+  max-width: 300px;
+  margin: 10px;
+}
+
+.product-pic{
+  width: 300px;
+  height: auto;
+  max-height: 300px;
+  overflow: hidden;
+}
+
+.product-name{
+  padding-top: 20px;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 600;
+  text-transform: uppercase;
+  display: block;
+}
+
+.price{
+  padding-top: 5px;
+  font-size: 18px;
+  text-align: center;
+  display: block;
 }
