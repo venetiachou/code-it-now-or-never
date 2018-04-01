@@ -13,7 +13,7 @@ I just started on March 10. Let's see how far I'll go.
 ## W1 3/10
 - Basic HTML tag(H1, div, form, table etc.)
 - HTML5 tag(Header, nav, main)
-- Facebook Fanpage & Google map
+- Facebook Fanpage & Google map inserted
 - Basic CSS (font, background)
 
 >The result of W1: [Calendar](https://codepen.io/venetiachou/pen/gerOKo)
@@ -24,3 +24,7 @@ I just started on March 10. Let's see how far I'll go.
 - Box model
 - Position
 - Display
+
+
+## W3 4/1
+- Flex box
