@@ -28,3 +28,5 @@ I just started on March 10. Let's see how far I'll go.
 
 ## W3 4/1
 - Flex box
+- CSS Selectors Pseudo-elements(::before)
+- Transition
