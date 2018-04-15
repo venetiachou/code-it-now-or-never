@@ -16,6 +16,8 @@ I just started on March 10. Let's see how far I'll go.
 - Facebook Fanpage & Google map inserted
 - Basic CSS (font, background)
 
+>materials:[Introduction to HTML5](https://scrimba.com/g/ghtml)
+
 >The result of W1: [Calendar](https://codepen.io/venetiachou/pen/gerOKo)
 
 
@@ -26,14 +28,17 @@ I just started on March 10. Let's see how far I'll go.
 - Display
 
 
+
 ## W3 4/1
 - Flex box
 - CSS Selectors Pseudo-elements(::before)
 - Transition
+
+>materials: [Learn Flexbox for Free](https://scrimba.com/g/gflexbox)
 
 
 ## W4 4/15
 - CSS Animation
 - Javascript (data type;variable;operatore;function;loop)
 
->materials: [Mozilla - Re-introudction to JavaScript](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+>materials: [重新認識 JavaScript 系列](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)
