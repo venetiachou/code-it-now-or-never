@@ -44,4 +44,4 @@ I just started on March 10. Let's see how far I'll go.
 - CSS Animation
 - JavaScript (data type;variable;operatore;function;loop)
 
->materials: [重新認識 JavaScript 系列](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)、[JavaScript 标准参考教程（alpha）](https://javascript.ruanyifeng.com/)
+>materials: [重新認識 JavaScript 系列](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)、[語言技術：JavaScript Essence](https://openhome.cc/Gossip/JavaScript/)
