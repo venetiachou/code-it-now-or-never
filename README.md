@@ -30,3 +30,10 @@ I just started on March 10. Let's see how far I'll go.
 - Flex box
 - CSS Selectors Pseudo-elements(::before)
 - Transition
+
+
+## W4 4/15
+- CSS Animation
+- Javascript (data type;variable;operatore;function;loop)
+
+>materials: [Mozilla - Re-introudction to JavaScript](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
