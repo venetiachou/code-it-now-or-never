@@ -10,26 +10,29 @@ I wanna record this whole process since this is my first time to face it so seri
 
 I just started on March 10. Let's see how far I'll go.
 
-## W1 3/10
+## W1 - 3/10
 - Basic HTML tag(H1, div, form, table etc.)
 - HTML5 tag(Header, nav, main)
 - Facebook Fanpage & Google map inserted
 - Basic CSS (font, background)
 
->materials:[Introduction to HTML5](https://scrimba.com/g/ghtml)
+>materials: [Introduction to HTML5](https://scrimba.com/g/ghtml)
 
 >The result of W1: [Calendar](https://codepen.io/venetiachou/pen/gerOKo)
 
 
-## W2 3/18
+## W2 - 3/18
 - Web font use
 - Box model
 - Position
 - Display
+- Git
+
+>materials: [連猴子都能懂得 Git 入門指南](https://backlog.com/git-tutorial/tw/)
 
 
 
-## W3 4/1
+## W3 - 4/1
 - Flex box
 - CSS Selectors Pseudo-elements(::before)
 - Transition
@@ -37,7 +40,7 @@ I just started on March 10. Let's see how far I'll go.
 >materials: [Learn Flexbox for Free](https://scrimba.com/g/gflexbox)
 
 
-## W4 4/15
+## W4 - 4/15
 - CSS Animation
 - Javascript (data type;variable;operatore;function;loop)
 
