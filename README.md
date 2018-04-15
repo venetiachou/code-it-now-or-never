@@ -37,11 +37,11 @@ I just started on March 10. Let's see how far I'll go.
 - CSS Selectors Pseudo-elements(::before)
 - Transition
 
->materials: [Learn Flexbox for Free](https://scrimba.com/g/gflexbox)
+>materials: [Learn Flexbox for Free](https://scrimba.com/g/gflexbox)、[Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)、[Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)、[CSS Media Queries 介紹與基礎應用](http://muki.tw/tech/css-media-queries-introduce-basic/)
 
 
 ## W4 - 4/15
 - CSS Animation
-- Javascript (data type;variable;operatore;function;loop)
+- JavaScript (data type;variable;operatore;function;loop)
 
->materials: [重新認識 JavaScript 系列](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)
+>materials: [重新認識 JavaScript 系列](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)、[JavaScript 标准参考教程（alpha）](https://javascript.ruanyifeng.com/)
