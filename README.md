@@ -4,7 +4,7 @@ Hi,
 
 Here is the very first project I build to learn HTML, CSS, and javascript.
 
-I'll spend 7-10 hours every week to learn how to use in 2 months. I'll create 2 packages each week. One is the practice for the first time. The other one is an assignment I give to myself for further challenges.
+I'll spend 7-10 hours every week to learn how to use in 2 months.
 
 I wanna record this whole process since this is my first time to face it so seriously. Publishing it will keep me go on this project. So that's why you see it.
 
@@ -45,3 +45,8 @@ I just started on March 10. Let's see how far I'll go.
 - JavaScript (data type;variable;operatore;function;loop)
 
 >materials: [重新認識 JavaScript 系列](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)、[語言技術：JavaScript Essence](https://openhome.cc/Gossip/JavaScript/)
+
+## W5 - 6/3
+- Bootstrap
+
+>materials: [Bootstrap] (https://getbootstrap.com/)
