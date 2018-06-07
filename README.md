@@ -4,7 +4,7 @@ Hi,
 
 Here is the very first project I build to learn HTML, CSS, and javascript.
 
-I'll spend 7-10 hours every week to learn how to use in 2 months.
+I'll spend 7-10 hours every week to learn.
 
 I wanna record this whole process since this is my first time to face it so seriously. Publishing it will keep me go on this project. So that's why you see it.
 
@@ -48,5 +48,6 @@ I just started on March 10. Let's see how far I'll go.
 
 ## W5 - 6/3
 - Bootstrap
+>materials: [Bootstrap] (https://getbootstrap.com/)、[Bootstrap Material Design](https://fezvrasta.github.io/bootstrap-material-design/)
 
->materials: [Bootstrap] (https://getbootstrap.com/)
+>the result: [My own GitHub Page](https://venetiachou.github.io/)
