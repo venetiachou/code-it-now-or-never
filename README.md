@@ -36,6 +36,7 @@ I just started on March 10. Let's see how far I'll go.
 ## W3 - 4/1
 - Flex box
 - CSS Selectors Pseudo-elements(::before)
+- CSS Media Queries
 - Transition
 
 >materials: [Learn Flexbox for Free](https://scrimba.com/g/gflexbox)、[Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)、[Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)、[CSS Media Queries 介紹與基礎應用](http://muki.tw/tech/css-media-queries-introduce-basic/)
