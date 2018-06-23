@@ -23,12 +23,13 @@ I just started on March 10. Let's see how far I'll go.
 
 ## W2 - 3/18
 - Web font use
+- CSS selector
 - Box model
 - Position
 - Display
 - Git
 
->materials: [連猴子都能懂得 Git 入門指南](https://backlog.com/git-tutorial/tw/)
+>materials: [牢记 31 种 CSS 选择器用法](https://www.zybuluo.com/Rico/note/19592)、[連猴子都能懂得 Git 入門指南](https://backlog.com/git-tutorial/tw/)
 
 
 
