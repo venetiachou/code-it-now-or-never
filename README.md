@@ -49,7 +49,7 @@ I just started on March 10. Let's see how far I'll go.
 >materials: [重新認識 JavaScript 系列](https://ithelp.ithome.com.tw/users/20065504/ironman/1259)、[語言技術：JavaScript Essence](https://openhome.cc/Gossip/JavaScript/)
 
 ## W5 - 6/3
-- Bootstrap
+- Bootstrap (grid; drawer;forms)
 >materials: [Bootstrap](https://getbootstrap.com/)、[Bootstrap 4 TC version](http://bootstrap.hexschool.com/)、[Bootstrap Material Design](https://fezvrasta.github.io/bootstrap-material-design/)
 
 >the result: [My own GitHub Page](https://venetiachou.github.io/)
