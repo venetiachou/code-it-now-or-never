@@ -53,3 +53,6 @@ I just started on March 10. Let's see how far I'll go.
 >materials: [Bootstrap](https://getbootstrap.com/)、[Bootstrap 4 TC version](http://bootstrap.hexschool.com/)、[Bootstrap Material Design](https://fezvrasta.github.io/bootstrap-material-design/)
 
 >the result: [My own GitHub Page](https://venetiachou.github.io/)
+
+## W6 - 6/24
+- Bootstrap (modal; reordering)
