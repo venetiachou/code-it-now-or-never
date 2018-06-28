@@ -55,4 +55,4 @@ I just started on March 10. Let's see how far I'll go.
 >the result: [My own GitHub Page](https://venetiachou.github.io/)
 
 ## W6 - 6/24
-- Bootstrap (modal; reordering)
+- Bootstrap (modal; reordering; collapse)
