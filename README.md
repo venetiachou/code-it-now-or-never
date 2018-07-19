@@ -62,4 +62,4 @@ I just started on March 10. Let's see how far I'll go.
 ##7 - 7/19
 - JavaScript (data type;variable;operator;function)
 
->materials: [Letfreecode](https://drive.google.com/file/d/0B_L23fyRLrkxZFpBUFFNR1JjNEU/view?usp=sharing)
+>materials: [Letfreecode - study materials](https://drive.google.com/file/d/0B_L23fyRLrkxZFpBUFFNR1JjNEU/view?usp=sharing)
