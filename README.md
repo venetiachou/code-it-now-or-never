@@ -63,3 +63,14 @@ I just started on March 10. Let's see how far I'll go.
 - JavaScript (data type;variable;operator;function)
 
 >materials: [Letfreecode - study materials](https://drive.google.com/file/d/0B_L23fyRLrkxZFpBUFFNR1JjNEU/view?usp=sharing)
+
+##7 - 7/22
+- Git(command, pull, push, rebase)
+- CI/CD
+- MVC
+- Ruby on Rails
+
+>materials: [為自己學 Rails](https://railsbook.tw/)
+
+>the result: [Mumu's offcial website](https://github.com/bugtender/mumu)
+
