@@ -74,3 +74,6 @@ I just started on March 10. Let's see how far I'll go.
 
 >the result: [Mumu's offcial website](https://github.com/bugtender/mumu)
 
+##8 -  7/26 & 8/2
+- ES6 elements (const / let)
+- loop
