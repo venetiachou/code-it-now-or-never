@@ -59,12 +59,12 @@ I just started on March 10. Let's see how far I'll go.
 
 >the result: [Jioukou Product Prototype](https://venetiachou.github.io/jioukou/intro)
 
-##7 - 7/19
+## W7 - 7/19
 - JavaScript (data type;variable;operator;function)
 
 >materials: [Letfreecode - study materials](https://drive.google.com/file/d/0B_L23fyRLrkxZFpBUFFNR1JjNEU/view?usp=sharing)
 
-##7 - 7/22
+## W8 - 7/22
 - Git(command, pull, push, rebase)
 - CI/CD
 - MVC
@@ -74,6 +74,6 @@ I just started on March 10. Let's see how far I'll go.
 
 >the result: [Mumu's offcial website](https://github.com/bugtender/mumu)
 
-##8 -  7/26 & 8/2
+## W9 -  7/26 & 8/2
 - ES6 elements (const / let)
 - loop
