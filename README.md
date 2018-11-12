@@ -77,3 +77,11 @@ I just started on March 10. Let's see how far I'll go.
 ## W9 -  7/26 & 8/2
 - ES6 elements (const / let)
 - loop
+
+##W10 - 8/5
+- Gatsby.js
+- Compiler
+- Webpack
+
+##W11 - 11/10
+- [MJML](https://mjml.io/)
