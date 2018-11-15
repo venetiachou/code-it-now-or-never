@@ -78,15 +78,15 @@ I just started on March 10. Let's see how far I'll go.
 - ES6 elements (const / let)
 - loop
 
-##W10 - 8/5
+## W10 - 8/5
 - Gatsby.js
 - Compiler
 - Webpack
 
-##W11 - 11/10
+## W11 - 11/10
 - [MJML](https://mjml.io/)
 
 
-##W12 - 11/14
+## W12 - 11/14
 - [Next.js](https://nextjs.org/)
 
