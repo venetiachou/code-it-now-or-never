@@ -1,13 +1,10 @@
 // This is the Link API
 import Link from 'next/link'
+import Header from '../comps/Header.js'
+import Layout from '../comps/MyLayout.js'
 
-const Index = () => (
-  <div>
-  <Link href="/about">
-    <button>Go to About Page</button>
-  </Link>
-    <p>Hello Next.j</p>
-  </div>
+export default () => (
+  <Layout>
+     <p>Hello Next.js</p>
+  </Layout>
 )
-
-export default Index
